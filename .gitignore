@@ -1,0 +1,12 @@
+.venv/
+artifacts/
+artifacts_drug/
+__pycache__/
+.pytest_cache/
+.DS_Store
+.streamlit/secrets.toml
+*.pyc
+*.pyo
+*.pyd
+*.log
+
